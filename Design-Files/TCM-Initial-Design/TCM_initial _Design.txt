@@ -1,0 +1,16 @@
+Board Information Report
+Filename     : S:\ernest-automativecontrolmodule\Design-Files\TCM-Initial-Design\TCM_initial _Design.PcbDoc
+Date         : 10/1/2024
+Time         : 5:15:35 PM
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 59.00%
+    Connections, 100
+    Connections routed, 59
+    Connections remaining, 41
+count : 4
+
+Net Track Width, Count
+    10mils, 52
+count : 1
